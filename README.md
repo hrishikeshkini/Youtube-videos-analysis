@@ -12,14 +12,14 @@
 ![Screenshot2(download2.png)
 
 ## Problem Statement
-Performing Sentiment Analysis
-Wordcloud representation of sentiments
-Emoji Analysis
-Collecting Entire data
-Most liked category
-Whether audience is engaging or not
-Which channel has largest number of trending videos?
-Does punctuation in title and tags have any relation with views, likes, dislikes, comments?
+#Performing Sentiment Analysis
+#Wordcloud representation of sentiments
+#Emoji Analysis
+#Collecting Entire data
+#Most liked category
+#Whether audience is engaging or not
+#Which channel has largest number of trending videos?
+#Does punctuation in title and tags have any relation with views, likes, dislikes, comments?
 
 
 ![Autokeras](autokeras.png)
