@@ -9,7 +9,7 @@
   * [Contributors](#contributors)
 
 ![Screenshot](download.png)
-![Screenshot2](download2.png)
+![Screenshot2](download1.png)
 
 ## Problem Statement
 Performing Sentiment Analysis
